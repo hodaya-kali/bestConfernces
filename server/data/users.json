@@ -1,0 +1,57 @@
+{
+  "0": {
+    "id": "0",
+    "name": "naomi",
+    "logo_picture": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg",
+    "director": "director4",
+    "date": "01/01/2000",
+    "isSeries": "true",
+    "series_number": "8",
+    "lectures": {
+      "naomi": {
+        "name": "naomi",
+        "picture": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg",
+        "site": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg"
+      },
+      "rivka": {
+        "name": "rivka",
+        "picture": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg",
+        "site": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg"
+      }
+    }
+  },
+  "1": {
+    "id": "1",
+    "name": "naomi2",
+    "logo_picture": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg",
+    "director": "director4",
+    "date": "01/01/2000",
+    "isSeries": "true",
+    "series_number": "8",
+    "lectures": {
+      "sara": {
+        "name": "sara",
+        "picture": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg",
+        "site": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg"
+      }
+    }
+  },
+  "5555": {
+    "id": "5555",
+    "name": "a",
+    "logo_picture": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg",
+    "director": "a",
+    "date": "a",
+    "isSeries": "true",
+    "series_number": "4"
+  },
+  "85858585": {
+    "id": "85858585",
+    "name": "22",
+    "logo_picture": "https://watermark.lovepik.com/photo/20211202/large/lovepik-teacher-is-giving-a-lecture-picture_501383711.jpg",
+    "director": "a",
+    "date": "a",
+    "isSeries": "true",
+    "series_number": "4"
+  }
+}
